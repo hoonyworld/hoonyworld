@@ -19,11 +19,10 @@
 <br>
 
 ## 💻 Experiences
-- Leets 1st Server - 2023.03 ~ 2023.08
-- Leets 2nd Server - 2023.09 ~ 2024.02
-- Leets 3rd Server - 2024.03 ~ ing
-- GDSC KR 2024 NEW YEAR Hackathon Server - 2024.01.12 ~ 2024.01.13
-- Wagle Hackathon 2nd Server - 2024.02.16 ~ 2024.02.17
+- 가천대학교 IT 학술동아리 'Leets' 1st Server (2023.03 ~ 2023.08)
+- 가천대학교 IT 학술동아리 'Leets' 2nd Server (2023.09 ~ 2024.02)
+- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ ing)
+- IT 벤처 창업 동아리 'SOPT' 34th Server (2024.03 ~ ing)
 
 
 <br>
