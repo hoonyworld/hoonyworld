@@ -2,39 +2,60 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=DongHoon%20Lee&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=hoonyworld's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
 
-
-## 📚 Tech Stack 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
-</p>
-
-<br>
-
-## 💻 Experiences
-- 가천대학교 IT 학술동아리 'Leets' 1st Server (2023.03 ~ 2023.08)
-- 가천대학교 IT 학술동아리 'Leets' 2nd Server (2023.09 ~ 2024.02)
-- 가천대학교 IT 학술동아리 'Leets' 3rd Server (2024.03 ~ ing)
-- IT 벤처 창업 동아리 'SOPT' 34th Server (2024.03 ~ ing)
-
-
-<br>
-
-## 🔎 Follow Me 
+## 🙋‍♂️ **About Me**
 <p align="left">
   <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="https://cyclic-basket-9b5.notion.site/Hi-I-m-DongHoon-Lee-bf51731b253e45d585619df1d3ede4cd?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/01dh_lee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
-<br>
+Nice to meet you! I’m Donghoon Lee, an aspiring backend developer. 
+
+I like influencing others in a positive way and am passionate about enhancing user experiences.
+
+<br/>
+
+## 🎓 **Experience**
+
+
+| Organization | Period | Description | Role |
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| Gachon University | 2020.03 ~ Present | Department of Computer Engineering | Student |
+| Leets | 2023.03 ~ 2024.08 | IT Academic Club at Gachon University | Backend Developer |
+| SOPT | 2024.03 ~ 2024.07 | IT Venture Startup Club for University Students | Backend Developer |
+| SOPT Makers | 2024.10 ~ Present | SOPT product team(in Crew Team) | Backend Developer |
+
+<br/>
+
+## 💻 Projects
+
+| Period | Project Name | Description |
+| ----------------- | ----------------- | ----------------- |
+| 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | A personalized 1:1 matching service for college students based on mood, age, and major |
+| 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | A ticketing platform for easily registering and managing small-scale performances |
+| 2024.10 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT-Makers-Crew</a> | A community service that brings together all SOPT members |
+
+<br/>
+
+## 🎖️ Awards
+🥈 SOPT 34th AppJam - <a href="https://cyclic-basket-9b5.notion.site/637106c4eb4448519accefc31a88b518?pvs=74">Best Award</a> <sub>(2024.7)</sub> </br>
+🥉 Tutoring C Language Mentor - <a href="https://cyclic-basket-9b5.notion.site/6628fd1752cc4836a323d2ebba6de343?pvs=74">Encouragement Award</a> <sub>(2024.1)</sub>
+
+<br/>
+
+## 📚 Tech Stack 
+### BackEnd
+- Java
+- Spring Boot, Spring Data JPA
+- Junit5
+
+### DevOps
+- AWS EC2, S3, RDS, Route 53
+- MySQL, PostgreSQL, Oracle, Redis
+- Github action, CodeDeploy, Jenkins Pipeline
+- Nginx, Docker
+
+<br/>
 
 ## 🐱 Github Stats
 <br>
