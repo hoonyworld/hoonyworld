@@ -45,8 +45,8 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 ## 📚 Tech Stack 
 ### BackEnd
-- Java
-- Spring Boot, Spring Data JPA
+- Java, Spring Boot
+- Spring MVC, Spring Data JPA, QueryDSL
 - Junit5
 
 ### DevOps
