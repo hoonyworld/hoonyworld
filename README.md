@@ -50,10 +50,11 @@ I like influencing others in a positive way and am passionate about enhancing us
 - Junit5
 
 ### DevOps
-- AWS EC2, S3, RDS, Route 53
+- AWS: EC2, RDS, S3, Route 53
 - MySQL, PostgreSQL, Oracle, Redis
 - Github action, CodeDeploy, Jenkins Pipeline
-- Nginx, Docker
+- Nginx, Docker, Docker-Compose
+- Sentry
 
 <br/>
 
