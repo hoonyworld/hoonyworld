@@ -54,7 +54,7 @@ I like influencing others in a positive way and am passionate about enhancing us
 - MySQL, PostgreSQL, Oracle, Redis
 - Github action, CodeDeploy, Jenkins Pipeline
 - Nginx, Docker, Docker-Compose
-- Grafana, Prometheus, Loki, Sentry
+- Grafana, Prometheus, Loki, Promtail, Sentry
 
 <br/>
 
