@@ -5,7 +5,6 @@
 ## 🙋‍♂️ **About Me**
 <p align="left">
   <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
-  <a href="https://cyclic-basket-9b5.notion.site/Hi-I-m-DongHoon-Lee-bf51731b253e45d585619df1d3ede4cd?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/01dh_lee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
