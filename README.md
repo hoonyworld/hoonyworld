@@ -2,10 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=DongHoon%20Lee&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=hoonyworld's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
 
+
 ## 🙋‍♂️ **About Me**
 <p align="left">
   <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
-  <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
+  <a href="https://www.linkedin.com/in/donghoon0203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </p>
 Nice to meet you! I’m Donghoon Lee, an aspiring backend developer. 
 
