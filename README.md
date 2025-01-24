@@ -19,10 +19,10 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Organization | Period | Description | Role |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| Gachon University | 2020.03 ~ Present | Department of Computer Engineering | Student |
+| SOPT Makers | 2024.10 ~ Present | SOPT meeting product team(Crew Team) | Backend Engineer |
+| SOPT | 2024.03 ~ 2024.07 | IT Venture Startup Club for University Students | Backend Developer 
 | Leets | 2023.03 ~ 2024.08 | IT Academic Club at Gachon University | Backend Developer |
-| SOPT | 2024.03 ~ 2024.07 | IT Venture Startup Club for University Students | Backend Developer |
-| SOPT Makers | 2024.10 ~ Present | SOPT product team(in Crew Team) | Backend Developer |
+| Gachon University | 2020.03 ~ Present | Department of Computer Engineering | Student |
 
 <br/>
 
@@ -30,9 +30,9 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Period | Project Name | Description |
 | ----------------- | ----------------- | ----------------- |
-| 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | A personalized 1:1 matching service for college students based on mood, age, and major |
+| 2024.10 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | A community service that brings together all SOPT members |
 | 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | A ticketing platform for easily registering and managing small-scale performances |
-| 2024.10 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT-Makers-Crew</a> | A community service that brings together all SOPT members |
+| 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | A personalized 1:1 matching service for college students based on mood, age, and major |
 
 <br/>
 
@@ -46,7 +46,7 @@ I like influencing others in a positive way and am passionate about enhancing us
 ### BackEnd
 - Java, Spring Boot
 - Spring MVC, Spring Data JPA, QueryDSL
-- Junit5
+- Junit5, AssertJ
 
 ### DevOps
 - AWS: EC2, RDS, S3, Route 53
