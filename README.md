@@ -20,7 +20,7 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Organization | Period | Description | Role |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| SOPT Makers | 2024.10 ~ Present | SOPT meeting product team(Crew Team) | Backend Engineer |
+| SOPT Makers | 2024.08 ~ Present | SOPT meeting product team(Crew Team) | Backend Engineer |
 | SOPT | 2024.03 ~ 2024.07 | IT Venture Startup Club for University Students | Backend Developer 
 | Leets | 2023.03 ~ 2024.08 | IT Academic Club at Gachon University | Backend Developer |
 | Gachon University | 2020.03 ~ Present | Department of Computer Engineering | Student |
