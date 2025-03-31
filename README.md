@@ -31,7 +31,7 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Period | Project Name | Description |
 | ----------------- | ----------------- | ----------------- |
-| 2024.10 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | A community service that brings together over 3,000 SOPT members |
+| 2024.08 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | A community service that brings together over 3,000 SOPT members |
 | 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | A ticketing platform for easily registering and managing small-scale performances |
 | 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | A personalized 1:1 matching service for college students based on mood, age, and major |
 
