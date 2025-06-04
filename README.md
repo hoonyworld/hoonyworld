@@ -33,7 +33,7 @@
 
 | Period | Project Name | Description |
 | ----------------- | ----------------- | ----------------- |
-| 2025.04 ~ Present | <a href="https://github.com/sopt-makers/sentry-notifier">Sentry Notifier</a> | "월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템 |
+| 2025.04 ~ Present | <a href="https://github.com/sopt-makers/sentry-notifier">Sentry Notifier</a> | 월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템 |
 | 2024.08 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | 3,000명의 SOPT 구성원들을 연결하는 모임 서비스 |
 | 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼 |
 | 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | 데이트 무드, 나이, 전공을 기반으로 한 가천대학생 맞춤형 1:1 매칭 서비스 |
