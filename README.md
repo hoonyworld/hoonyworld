@@ -3,15 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=DongHoon%20Lee&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=hoonyworld's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
 
 
-## 🙋‍♂️ **About Me**
+## 💡 **About Me**
 <p align="left">
-  <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
-  <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
+  <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
+  <a href="mailto:donghoon0203@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
   <a href="https://www.linkedin.com/in/movehoon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </p>
-Nice to meet you! I’m Donghoon Lee, an aspiring backend developer. 
 
-I like influencing others in a positive way and am passionate about enhancing user experiences.
+> 혼자 빠르게 가는 것보다 함께 멀리 가는 것을 지향하는 개발자, 이동훈입니다.
+
 
 <br/>
 
@@ -20,11 +20,12 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Organization | Period | Description | Role |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| SOPT Makers | 2024.08 ~ Present | SOPT meeting product team(Crew Team) | Backend Engineer |
-| SOPT | 2024.03 ~ 2024.07 | IT Venture Startup Club for University Students | Backend Developer 
-| Leets | 2023.03 ~ 2024.08 | IT Academic Club at Gachon University | Backend Developer |
-| Gachon University | 2023.03 ~ Present | Department of Computer Engineering | Student |
-| Gachon University | 2020.03 ~ 2022.12 | Department of Food and Biotechnology | Student |
+| [YAPP](https://www.yapp.co.kr/) | 2025.05 ~ Present | 직장인과 협업하는 기업형 IT연합 커뮤니티 | Backend Developer |
+| [SOPT Makers](https://makers.sopt.org/) | 2024.08 ~ Present | 3,000명의 구성원들을 연결하는 SOPT 정식 기구 | Backend Developer |
+| [SOPT](https://www.sopt.org/) | 2024.03 ~ 2024.07 | 대학생 IT 벤처 창업 동아리 | Backend Developer 
+| [Leets](https://leets.land/) | 2023.03 ~ 2024.08 | 가천대학교 IT 학회 | Backend Developer |
+| Gachon University | 2023.03 ~ Present | 컴퓨터공학과 | Student |
+| Gachon University | 2020.03 ~ 2022.12 | 식품생명공학과 | Student |
 
 <br/>
 
@@ -32,30 +33,35 @@ I like influencing others in a positive way and am passionate about enhancing us
 
 | Period | Project Name | Description |
 | ----------------- | ----------------- | ----------------- |
-| 2024.08 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | A community service that brings together over 3,000 SOPT members |
-| 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | A ticketing platform for easily registering and managing small-scale performances |
-| 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | A personalized 1:1 matching service for college students based on mood, age, and major |
+| 2025.04 ~ Present | <a href="https://github.com/sopt-makers/sentry-notifier">Sentry Notifier</a> | "월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템 |
+| 2024.08 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | 3,000명의 SOPT 구성원들을 연결하는 모임 서비스 |
+| 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼 |
+| 2023.10 ~ 2024.06 | <a href="https://github.com/Leets-Official/MoodMate-BE">MoodMate</a> | 데이트 무드, 나이, 전공을 기반으로 한 가천대학생 맞춤형 1:1 매칭 서비스 |
 
 <br/>
 
 ## 🎖️ Awards
-🥈 SOPT 34th AppJam - <a href="https://cyclic-basket-9b5.notion.site/637106c4eb4448519accefc31a88b518?pvs=74">Best Award</a> <sub>(2024.7)</sub> </br>
-🥉 Tutoring C Language Mentor - <a href="https://cyclic-basket-9b5.notion.site/6628fd1752cc4836a323d2ebba6de343?pvs=74">Encouragement Award</a> <sub>(2024.1)</sub>
+🏆 SOPT 34th AppJam - <a href="https://cyclic-basket-9b5.notion.site/637106c4eb4448519accefc31a88b518?pvs=74">최우수상</a> <sub>(2024.7)</sub> </br>
+🏆 Tutoring C Language Mentor - <a href="https://cyclic-basket-9b5.notion.site/6628fd1752cc4836a323d2ebba6de343?pvs=74">장려상</a> <sub>(2024.1)</sub>
 
 <br/>
 
 ## 📚 Tech Stack 
-### BackEnd
-- Java, Spring Boot
-- Spring MVC, Spring Data JPA, QueryDSL
-- Junit5, AssertJ
+### Backend
+- **Language & Framework**: Java, Spring Boot
+- **Database**: MySQL, PostgreSQL
+- **Cache**: Redis
+- **Testing**: JUnit5, AssertJ
 
-### DevOps
-- AWS: EC2, RDS, S3, Route 53
-- MySQL, PostgreSQL, Oracle, Redis
-- Github action, CodeDeploy, Jenkins Pipeline
-- Nginx, Docker, Docker-Compose
-- Jmeter, Grafana, Prometheus, Loki, Promtail, Pinpoint, Sentry
+### Infrastructure & DevOps
+- **Cloud Platform**: AWS, GCP, OCI
+- **CI/CD**: GitHub Actions, Jenkins Pipeline, CodeDeploy
+- **Reverse Proxy**: Nginx, Caddy
+- **Containerization**: Docker, Docker Compose
+
+### Monitoring & Observability  
+- **Metrics & Logging**: Grafana Alloy, Grafana, Prometheus, Loki, Promtail
+- **APM & Error Tracking**: Pinpoint, Sentry
 
 <br/>
 
