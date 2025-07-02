@@ -1,7 +1,15 @@
+<div style="text-align: center;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/hoonyworld"
+      width="600"
+      height="300"
+      alt="GitAnimals Farm"
+    />
+  </a>
+</div>
+
 <div align="left">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=DongHoon%20Lee&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=hoonyworld's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
-
 
 ## 💡 **About Me**
 <p align="left">
