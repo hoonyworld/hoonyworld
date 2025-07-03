@@ -56,7 +56,7 @@
 
 ## 📚 Tech Stack 
 ### Backend
-- **Language & Framework**: Java, Spring Boot
+- **Language & Framework**: Java, Kotlin, Spring Boot
 - **Database**: MySQL, PostgreSQL
 - **Cache**: Redis
 - **Testing**: JUnit5, AssertJ
