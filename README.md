@@ -41,6 +41,7 @@
 
 | Period | Project Name | Description |
 | ----------------- | ----------------- | ----------------- |
+| 2025.06 ~ Present | <a href="https://github.com/YAPP-Github/Reed-Server">Reed</a> | 책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스 |
 | 2025.04 ~ Present | <a href="https://github.com/sopt-makers/sentry-notifier">Sentry Notifier</a> | 월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템 |
 | 2024.08 ~ Present | <a href="https://github.com/sopt-makers/sopt-crew-backend">SOPT Makers Crew</a> | 3,000명의 SOPT 구성원들을 연결하는 모임 서비스 |
 | 2024.06 ~ Present | <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">BEAT</a> | 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼 |
