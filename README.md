@@ -32,7 +32,7 @@
 | [SOPT Makers](https://makers.sopt.org/) | 2024.08 ~ Present | 3,000명의 구성원들을 연결하는 SOPT 정식 기구 | Backend Developer |
 | [SOPT](https://www.sopt.org/) | 2024.03 ~ 2024.07 | 대학생 IT 벤처 창업 동아리 | Backend Developer 
 | [Leets](https://leets.land/) | 2023.03 ~ 2024.08 | 가천대학교 IT 학회 | Backend Developer |
-| Gachon University | 2023.03 ~ Present | 컴퓨터공학과 | Student |
+| Gachon University | 2023.03 ~ 2026.02 졸업예정 | 컴퓨터공학과 | Student |
 | Gachon University | 2020.03 ~ 2022.12 | 식품생명공학과 | Student |
 
 <br/>
