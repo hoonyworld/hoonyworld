@@ -28,11 +28,12 @@
 
 | Organization | Period | Description | Role |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| [YAPP](https://www.yapp.co.kr/) | 2025.05 ~ Present | 직장인과 협업하는 기업형 IT연합 커뮤니티 | Backend Developer |
-| [SOPT Makers](https://makers.sopt.org/) | 2024.08 ~ Present | 3,000명의 구성원들을 연결하는 SOPT 정식 기구 | Backend Developer |
-| [SOPT](https://www.sopt.org/) | 2024.03 ~ 2024.07 | 대학생 IT 벤처 창업 동아리 | Backend Developer 
-| [Leets](https://leets.land/) | 2023.03 ~ 2024.08 | 가천대학교 IT 학회 | Backend Developer |
-| Gachon University | 2023.03 ~ 2026.02 졸업예정 | 컴퓨터공학과 | Student |
+| [AUSG 9th](https://ausg.me/) | 2025.07 ~ Present | 대학생 개발자를 위한 클라우드 커뮤니티 | Member |
+| [YAPP 26th](https://www.yapp.co.kr/) | 2025.05 ~ Present | 직장인과 협업하는 기업형 IT연합 커뮤니티 | Backend Developer |
+| [SOPT Makers 35th - 37th](https://makers.sopt.org/) | 2024.08 ~ Present | 3,000명의 구성원들을 연결하는 SOPT 정식 기구 | Backend Developer |
+| [SOPT 34th](https://www.sopt.org/) | 2024.03 ~ 2024.07 | 대학생 IT 벤처 창업 동아리 | Backend Developer 
+| [Leets 1st - 3rd](https://leets.land/) | 2023.03 ~ 2024.08 | 가천대학교 IT 학회 | Backend Developer |
+| Gachon University | 2023.03 ~ 2026.02 (expected) | 컴퓨터공학과 | Student |
 | Gachon University | 2020.03 ~ 2022.12 | 식품생명공학과 | Student |
 
 <br/>
