@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/movehoon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </p>
 
-> 혼자 빠르게 가는 것보다 함께 멀리 가는 것을 지향하는 개발자, 이동훈입니다.
+> 함께 멀리 가는 길을 소중히 여기며, 협업을 통해 더 큰 가치를 만들어가는 개발자 이동훈입니다.
 
 
 <br/>
