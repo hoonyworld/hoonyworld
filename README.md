@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/movehoon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </p>
 
-> 함께 멀리 가는 길을 소중히 여기며, 협업을 통해 더 큰 가치를 만들어가는 개발자 이동훈입니다.
+> 협업으로 더 큰 가치를 만들고, 함께 성장하는 길을 소중히 여기는 개발자 이동훈입니다.
 
 
 <br/>
