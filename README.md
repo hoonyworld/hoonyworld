@@ -5,8 +5,6 @@
 > 확장성과 안정성을 갖춘 백엔드 시스템을 설계하고 구현하는 개발자, 이동훈입니다.  
 > 효율적인 아키텍처와 클린 코드를 통해 유지보수성과 가용성을 높이는 데 집중하며, 협업을 통해 더 큰 가치를 만들어가는 걸 좋아합니다.
 
-<br>
-
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -47,11 +45,13 @@
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact)
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
-  <img src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" width="100" height="120"/>
-</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact" height="150"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" height="150"/>
+  </a>
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
