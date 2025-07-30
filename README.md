@@ -45,21 +45,13 @@
 
 ### Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact" height="150"/>
-    </td>
-    <td>
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
-        <img src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" height="150"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact" height="150"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" height="150"/>
+  </a>
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
