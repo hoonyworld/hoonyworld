@@ -44,12 +44,13 @@
 
 
 ### Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent" height="150"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact&theme=transparent" height="150"/>&nbsp;&nbsp;
+<div style="display: flex; align-items: center; gap: 8px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&disable_animations=true&theme=vue"/>
+  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact&theme=vue"/>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" height="150"/>
+    <img height="150" src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628"/>
   </a>
 </div>
 
