@@ -53,7 +53,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628"
-    width="200"
+    width="150"
     height="150"
   />
 </a>
