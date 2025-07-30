@@ -46,14 +46,19 @@
 ### Stats
 
 <div style="display: flex; align-items: center; gap: 8px;">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height="150" src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&disable_animations=true&theme=vue" alt="GitHub Stats"/>
- </a>
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact&theme=vue" alt="Top Languages"/>
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
-   <img height="150" src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628" alt="Git Animal"/>
- </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&disable_animations=true&theme=vue&card_width=280"/>
+  </a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact&theme=vue&card_width=280"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628"
+    width="200"
+    height="150"
+  />
+</a>
 </div>
+  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
