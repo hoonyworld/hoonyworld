@@ -31,10 +31,10 @@
 <img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers Crew](https://github.com/sopt-makers/sopt-crew-backend) <sub>2024.08 ~ Present</sub>  
 3,000명의 SOPT 구성원들을 연결하는 모임 서비스  
 
-<img src="https://private-user-images.githubusercontent.com/125895298/351351433-49b52b5a-1859-486e-aaf5-e8bee25f64ca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4NjA2NDIsIm5iZiI6MTc1Mzg2MDM0MiwicGF0aCI6Ii8xMjU4OTUyOTgvMzUxMzUxNDMzLTQ5YjUyYjVhLTE4NTktNDg2ZS1hYWY1LWU4YmVlMjVmNjRjYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDczMFQwNzI1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzQxYzhiMTQ5ZTQ4Njg3MGE5ZmUxOWQzMGZkN2UxMGMwMTViYjI5ZmFjYjlhOWEwNzE2MTE5NTlhOGY1ZTBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CY67Q9I5Fb4SGvBo5K-UyB38INZ98QLxjnaLD0Gqpqc" width="15"/> [BEAT](https://github.com/TEAM-BEAT/BEAT-SERVER) <sub>2024.06 ~ Present</sub>  
+<img src="https://github.com/user-attachments/assets/3596a16d-8d39-48ee-b3f0-d55c710faa0d" width="15"/> [BEAT](https://github.com/TEAM-BEAT/BEAT-SERVER) <sub>2024.06 ~ Present</sub>  
 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼  
 
-<img src="https://private-user-images.githubusercontent.com/125895298/356867815-18ad2a4a-07b4-45ab-98a1-d2b38a2eefc2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4NjA1NDgsIm5iZiI6MTc1Mzg2MDI0OCwicGF0aCI6Ii8xMjU4OTUyOTgvMzU2ODY3ODE1LTE4YWQyYTRhLTA3YjQtNDVhYi05OGExLWQyYjM4YTJlZWZjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDczMFQwNzI0MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYjY1YWU2NDJmNzY0M2RiMGM3YmQyMmY5NjNhZDVhYmUwNzA5MWE2M2I4ZDQ2YzkzYThmNDVmY2VkZmViZmRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.p_YBGA2AgYjkEx2Ll7ihgG4n6ajCj4WwaRGd-7jYWLs" width="15"/> [MoodMate](https://github.com/Leets-Official/MoodMate-BE) <sub>2023.10 ~ 2024.06</sub>  
+<img src="https://github.com/user-attachments/assets/06a568fe-4bcd-47ed-80fe-54c09537e351" width="15"/> [MoodMate](https://github.com/Leets-Official/MoodMate-BE) <sub>2023.10 ~ 2024.06</sub>  
 데이트 무드, 나이, 전공을 기반으로 한 가천대학생 맞춤형 1:1 매칭 서비스  
 
 
