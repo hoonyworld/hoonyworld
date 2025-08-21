@@ -22,7 +22,7 @@
 
 
 ### Projects
-<img src="https://github.com/user-attachments/assets/8d9964e8-a02b-4ab8-bf0c-f01e4d4b6666" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
+<img src="https://github.com/user-attachments/assets/6c1c9315-2111-4411-9b23-d1095c154f54" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
 책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스  
 
 <img src="https://images.icon-icons.com/2148/PNG/512/sentry_icon_132005.png" width="15"/> [Sentry Notifier](https://github.com/sopt-makers/sentry-notifier) <sub>2025.04 ~ Present</sub>  
