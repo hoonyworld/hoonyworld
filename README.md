@@ -22,7 +22,7 @@
 
 
 ### Projects
-<img src="https://github.com/user-attachments/assets/6c1c9315-2111-4411-9b23-d1095c154f54" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
+<img src="https://github.com/user-attachments/assets/2a0b3f30-67d8-4975-bd38-4c8ec8310e38" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
 책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스  
 
 <img src="https://images.icon-icons.com/2148/PNG/512/sentry_icon_132005.png" width="15"/> [Sentry Notifier](https://github.com/sopt-makers/sentry-notifier) <sub>2025.04 ~ Present</sub>  
@@ -39,8 +39,9 @@
 
 
 ### Awards
-🏆 SOPT 34th AppJam - <a href="https://cyclic-basket-9b5.notion.site/637106c4eb4448519accefc31a88b518?pvs=74">최우수상</a> <sub>2024.7</sub> </br>
-🏆 Tutoring C Language Mentor - <a href="https://cyclic-basket-9b5.notion.site/6628fd1752cc4836a323d2ebba6de343?pvs=74">장려상</a> <sub>2024.1</sub>
+🏆 YAPP 26th Demoday - 최우수상 <sub>2025.8</sub> </br>
+🏆 SOPT 34th AppJam - 최우수상 <sub>2024.7</sub> </br>
+🏆 Tutoring C Language Mentor - 장려상 <sub>2024.1</sub>
 
 
 ### Stats
