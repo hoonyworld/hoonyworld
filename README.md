@@ -35,7 +35,7 @@
 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼  
 
 <img src="https://github.com/user-attachments/assets/06a568fe-4bcd-47ed-80fe-54c09537e351" width="15"/> [MoodMate](https://github.com/Leets-Official/MoodMate-BE) <sub>2023.10 ~ 2024.06</sub>  
-데이트 무드, 나이, 전공을 기반으로 한 가천대학생 맞춤형 1:1 매칭 서비스  
+가천대 학생을 위한 데이트 무드·나이·전공 기반 맞춤형 1:1 매칭 서비스
 
 
 ### Awards
