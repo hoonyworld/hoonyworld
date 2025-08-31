@@ -48,19 +48,19 @@
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&disable_animations=true&theme=vue&card_width=280"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=move-hoon&hide_title=true&show_icons=true&disable_animations=true&theme=vue&card_width=280"/>
   </a>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact&theme=vue&card_width=280"/>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoonyworld&utm_content=line">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=move-hoon&layout=compact&theme=vue&card_width=280"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=move-hoon&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628"
+    src="https://render.gitanimals.org/lines/move-hoon?pet-id=738301841342521628"
     width="150"
     height="150"
   />
 </a>
 </div>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmove-hoon&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left">
   <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
