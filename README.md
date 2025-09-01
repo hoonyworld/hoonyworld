@@ -53,7 +53,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=move-hoon&layout=compact&theme=vue&card_width=280"/>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=move-hoon&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/hoonyworld?pet-id=738301841342521628"
+    src="https://render.gitanimals.org/lines/move-hoon?pet-id=738301841342521628"
     width="150"
     height="150"
   />
