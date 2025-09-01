@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-
 ### Activities
 <img src="https://avatars.githubusercontent.com/u/40321838?v=4" width="15"/> [AUSG](https://ausg.me/) 9th Member <sub>2025.07 ~ Present</sub>  
 <img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> [YAPP](https://www.yapp.co.kr/) 26th Backend Developer <sub>2025.05 ~ 2025.08</sub>  
@@ -20,6 +19,8 @@
 <img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> [Leets](https://leets.land/) 1st - 3rd Backend Part <sub>2023.03 ~ 2024.08</sub>  
 
+### Contributions
+[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart
 
 ### Projects
 <img src="https://github.com/user-attachments/assets/2a0b3f30-67d8-4975-bd38-4c8ec8310e38" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
